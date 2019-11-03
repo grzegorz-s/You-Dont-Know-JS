@@ -1,3 +1,10 @@
+---
+home: true
+navbar: false
+pageClass: landing-page
+layout: HomeLayout
+---
+::: slot content-section
 # You Don't Know JS (book series) - 1st Edition
 
 | UPDATE: You are viewing the 1st edition of the book series, as they were published by O'Reilly from 2014-2015. As of now, [2nd edition](https://github.com/getify/You-Dont-Know-JS/tree/2nd-ed) work is underway. Any issues or PRs should be directed against the latest edition. |
@@ -61,3 +68,5 @@ But **PLEASE** read the [Contributions Guidelines](CONTRIBUTING.md) carefully be
 The materials herein are all &copy; 2013-2019 Kyle Simpson.
 
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons Attribution-NonCommercial-NoDerivs 4.0 Unported License</a>.
+
+:::

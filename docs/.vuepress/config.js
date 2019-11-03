@@ -1,7 +1,11 @@
 module.exports = {
   title: "You Don't Know JS",
   description: 'Just playing around',
+  head: [
+    ['link', { rel: 'icon', href: '/images/favicon.ico' }],
+  ],
   themeConfig: {
+    smoothScroll: true,
     sidebar: [
       {
         title: 'Up & Going',
