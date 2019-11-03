@@ -5,39 +5,13 @@ pageClass: landing-page
 layout: HomeLayout
 ---
 ::: slot main-section
+<LandingIntro />
 <LandingBooks />
 :::
 
 ::: slot content-section
-# You Don't Know JS (book series) - 1st Edition
-
-| UPDATE: You are viewing the 1st edition of the book series, as they were published by O'Reilly from 2014-2015. As of now, [2nd edition](https://github.com/getify/You-Dont-Know-JS/tree/2nd-ed) work is underway. Any issues or PRs should be directed against the latest edition. |
-| :--- |
-
-----
-----
-
-This is a series of books diving deep into the core mechanisms of the JavaScript language. The first edition of the series is now complete.
-
-<a href="http://www.ebooks.com/1993212/you-don-t-know-js-up-going/simpson-kyle/"><img :src="$withBase('/images/cover_up_and_going.jpg')" width="75"></a>&nbsp;
-<a href="http://www.ebooks.com/1647631/you-don-t-know-js-scope-closures/simpson-kyle/"><img :src="$withBase('/images/cover_scope_and_closures.jpg')" width="75"></a>&nbsp;
-<a href="http://www.ebooks.com/1734321/you-don-t-know-js-this-object-prototypes/simpson-kyle/"><img :src="$withBase('/images/cover_this_and_object_prototypes.jpg')" width="75"></a>&nbsp;
-<a href="http://www.ebooks.com/1935541/you-don-t-know-js-types-grammar/simpson-kyle/"><img :src="$withBase('/images/cover_types_and_grammar.jpg')" width="75"></a>&nbsp;
-<a href="http://www.ebooks.com/1977375/you-don-t-know-js-async-performance/simpson-kyle/"><img :src="$withBase('/images/cover_async_and_performance.jpg')" width="75"></a>&nbsp;
-<a href="http://www.ebooks.com/2481820/you-don-t-know-js-es6-beyond/simpson-kyle/"><img :src="$withBase('/images/cover_es6_and_beyond.jpg')" width="75"></a>
-
-Please feel free to contribute to the quality of this content by submitting PR's for improvements to code snippets, explanations, etc. While typo fixes are welcomed, they will likely be caught through normal editing processes, and are thus not necessarily as important for this repository.
 
 **To read more about the motivations and perspective behind this book series, check out the [Preface](preface.md).**
-
-## Titles
-
-* Read online (free!): ["Up & Going"](up\%20&\%20going/README.md#you-dont-know-js-up--going), Published: [Buy Now](http://www.ebooks.com/1993212/you-don-t-know-js-up-going/simpson-kyle/) in print, but the ebook format is free!
-* Read online (free!): ["Scope & Closures"](scope\%20&\%20closures/README.md#you-dont-know-js-scope--closures), Published: [Buy Now](http://www.ebooks.com/1647631/you-don-t-know-js-scope-closures/simpson-kyle/)
-* Read online (free!): ["this & Object Prototypes"](this\%20&\%20object\%20prototypes/README.md#you-dont-know-js-this--object-prototypes), Published: [Buy Now](http://www.ebooks.com/1734321/you-don-t-know-js-this-object-prototypes/simpson-kyle/)
-* Read online (free!): ["Types & Grammar"](types\%20&\%20grammar/README.md#you-dont-know-js-types--grammar), Published: [Buy Now](http://www.ebooks.com/1935541/you-don-t-know-js-types-grammar/simpson-kyle/)
-* Read online (free!): ["Async & Performance"](async\%20&\%20performance/README.md#you-dont-know-js-async--performance), Published: [Buy Now](http://www.ebooks.com/1977375/you-don-t-know-js-async-performance/simpson-kyle/)
-* Read online (free!): ["ES6 & Beyond"](es6\%20&\%20beyond/README.md#you-dont-know-js-es6--beyond), Published: [Buy Now](http://www.ebooks.com/2481820/you-don-t-know-js-es6-beyond/simpson-kyle/)
 
 ## Publishing
 
@@ -62,6 +36,8 @@ I also have some JS training material available in on-demand video format. I tea
 Some of those courses are also distributed on other platforms, like Pluralsight, Lynda.com, and O'Reilly Safari Online.
 
 ## Contributions
+
+Please feel free to contribute to the quality of this content by submitting PR's for improvements to code snippets, explanations, etc. While typo fixes are welcomed, they will likely be caught through normal editing processes, and are thus not necessarily as important for this repository.
 
 Any contributions you make to this effort **are of course greatly appreciated**.
 
