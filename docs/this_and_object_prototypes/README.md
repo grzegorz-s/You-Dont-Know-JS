@@ -1,3 +1,9 @@
+---
+title: '*this* & Object Prototypes'
+layout: book
+order: 3
+---
+
 # You Don't Know JS: *this* & Object Prototypes - 1st Edition
 
 | UPDATE: You are viewing the 1st edition of the book series, as they were published by O'Reilly from 2014-2015. As of now, [2nd edition](https://github.com/getify/You-Dont-Know-JS/tree/2nd-ed) work is underway. Any issues or PRs should be directed against the latest edition. |
@@ -6,7 +12,7 @@
 ----
 ----
 
-<img src="cover.jpg" width="300">
+<img :src="$withBase('/images/cover_this_and_object_prototypes.jpg')" width="300">
 
 -----
 

@@ -1,3 +1,9 @@
+---
+title: 'Appendix B: Acknowledgments'
+layout: chapter
+chapter: 7
+---
+
 # You Don't Know JS: Types & Grammar
 # Appendix B: Acknowledgments
 

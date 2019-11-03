@@ -1,3 +1,9 @@
+---
+title: Program Performance
+layout: chapter
+chapter: 5
+---
+
 # You Don't Know JS: Async & Performance
 # Chapter 5: Program Performance
 

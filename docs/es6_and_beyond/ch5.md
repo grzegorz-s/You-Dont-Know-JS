@@ -1,3 +1,9 @@
+---
+title: Collections
+layout: chapter
+chapter: 5
+---
+
 # You Don't Know JS: ES6 & Beyond
 # Chapter 5: Collections
 

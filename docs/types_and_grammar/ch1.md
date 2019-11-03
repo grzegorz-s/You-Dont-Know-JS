@@ -1,3 +1,9 @@
+---
+title: Types
+layout: chapter
+chapter: 1
+---
+
 # You Don't Know JS: Types & Grammar
 # Chapter 1: Types
 

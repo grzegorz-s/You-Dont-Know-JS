@@ -1,3 +1,9 @@
+---
+title: Into JavaScript
+layout: chapter
+chapter: 2
+---
+
 # You Don't Know JS: Up & Going
 # Chapter 2: Into JavaScript
 

@@ -1,3 +1,9 @@
+---
+title: Beyond ES6
+layout: chapter
+chapter: 8
+---
+
 # You Don't Know JS: ES6 & Beyond
 # Chapter 8: Beyond ES6
 

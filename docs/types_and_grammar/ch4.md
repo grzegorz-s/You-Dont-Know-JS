@@ -1,3 +1,9 @@
+---
+title: Coercion
+layout: chapter
+chapter: 4
+---
+
 # You Don't Know JS: Types & Grammar
 # Chapter 4: Coercion
 

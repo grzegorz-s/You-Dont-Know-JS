@@ -1,3 +1,9 @@
+---
+title: Function vs. Block Scope
+layout: chapter
+chapter: 3
+---
+
 # You Don't Know JS: Scope & Closures
 # Chapter 3: Function vs. Block Scope
 

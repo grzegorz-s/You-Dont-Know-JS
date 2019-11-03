@@ -1,3 +1,9 @@
+---
+title: '`this` Or That?'
+layout: chapter
+chapter: 1
+---
+
 # You Don't Know JS: *this* & Object Prototypes
 # Chapter 1: `this` Or That?
 

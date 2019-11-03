@@ -1,3 +1,9 @@
+---
+title: What is Scope?
+layout: chapter
+chapter: 1
+---
+
 # You Don't Know JS: Scope & Closures
 # Chapter 1: What is Scope?
 

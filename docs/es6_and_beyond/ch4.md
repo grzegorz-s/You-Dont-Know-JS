@@ -1,3 +1,9 @@
+---
+title: Async Flow Control
+layout: chapter
+chapter: 4
+---
+
 # You Don't Know JS: ES6 & Beyond
 # Chapter 4: Async Flow Control
 

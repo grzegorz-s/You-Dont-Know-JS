@@ -1,3 +1,9 @@
+---
+title: ES? Now & Future
+layout: chapter
+chapter: 1
+---
+
 # You Don't Know JS: ES6 & Beyond
 # Chapter 1: ES? Now & Future
 

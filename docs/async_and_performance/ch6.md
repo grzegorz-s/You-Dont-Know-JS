@@ -1,3 +1,10 @@
+---
+title: Benchmarking & Tuning
+layout: chapter
+chapter: 6
+---
+
+
 # You Don't Know JS: Async & Performance
 # Chapter 6: Benchmarking & Tuning
 

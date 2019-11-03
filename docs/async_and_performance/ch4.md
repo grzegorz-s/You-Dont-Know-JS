@@ -1,3 +1,9 @@
+---
+title: Generators
+layout: chapter
+chapter: 4
+---
+
 # You Don't Know JS: Async & Performance
 # Chapter 4: Generators
 

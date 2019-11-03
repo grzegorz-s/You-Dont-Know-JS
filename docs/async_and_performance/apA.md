@@ -1,3 +1,9 @@
+---
+title: 'Appendix A: *asynquence* Library'
+layout: chapter
+chapter: 7
+---
+
 # You Don't Know JS: Async & Performance
 # Appendix A: *asynquence* Library
 

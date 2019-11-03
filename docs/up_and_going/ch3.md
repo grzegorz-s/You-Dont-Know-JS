@@ -1,3 +1,9 @@
+---
+title: Into YDKJS
+layout: chapter
+chapter: 3
+---
+
 # You Don't Know JS: Up & Going
 # Chapter 3: Into YDKJS
 

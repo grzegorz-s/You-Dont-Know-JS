@@ -1,3 +1,9 @@
+---
+title: 'Appendix D: Acknowledgments'
+layout: chapter
+chapter: 9
+---
+
 # You Don't Know JS: Scope & Closures
 # Appendix D: Acknowledgments
 

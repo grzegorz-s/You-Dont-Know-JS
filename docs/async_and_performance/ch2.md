@@ -1,3 +1,9 @@
+---
+title: Callbacks
+layout: chapter
+chapter: 2
+---
+
 # You Don't Know JS: Async & Performance
 # Chapter 2: Callbacks
 

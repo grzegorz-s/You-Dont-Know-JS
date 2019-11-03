@@ -1,3 +1,9 @@
+---
+title: Scope Closure
+layout: chapter
+chapter: 5
+---
+
 # You Don't Know JS: Scope & Closures
 # Chapter 5: Scope Closure
 

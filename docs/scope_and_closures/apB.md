@@ -1,3 +1,9 @@
+---
+title: 'Appendix B: Polyfilling Block Scope'
+layout: chapter
+chapter: 7
+---
+
 # You Don't Know JS: Scope & Closures
 # Appendix B: Polyfilling Block Scope
 

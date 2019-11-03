@@ -1,3 +1,9 @@
+---
+title: 'Appendix A: Dynamic Scope'
+layout: chapter
+chapter: 6
+---
+
 # You Don't Know JS: Scope & Closures
 # Appendix A: Dynamic Scope
 

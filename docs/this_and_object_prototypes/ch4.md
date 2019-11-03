@@ -1,3 +1,9 @@
+---
+title: 'Mixing (Up) "Class" Objects'
+layout: chapter
+chapter: 4
+---
+
 # You Don't Know JS: *this* & Object Prototypes
 # Chapter 4: Mixing (Up) "Class" Objects
 

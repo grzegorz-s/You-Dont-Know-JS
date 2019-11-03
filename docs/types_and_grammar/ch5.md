@@ -1,3 +1,9 @@
+---
+title: Grammar
+layout: chapter
+chapter: 5
+---
+
 # You Don't Know JS: Types & Grammar
 # Chapter 5: Grammar
 

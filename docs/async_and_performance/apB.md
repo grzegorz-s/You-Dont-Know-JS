@@ -1,3 +1,9 @@
+---
+title: 'Appendix B: Advanced Async Patterns'
+layout: chapter
+chapter: 8
+---
+
 # You Don't Know JS: Async & Performance
 # Appendix B: Advanced Async Patterns
 

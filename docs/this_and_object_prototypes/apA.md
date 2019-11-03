@@ -1,3 +1,9 @@
+---
+title: 'Appendix A: ES6 `class`'
+layout: chapter
+chapter: 7
+---
+
 # You Don't Know JS: *this* & Object Prototypes
 # Appendix A: ES6 `class`
 

@@ -1,3 +1,9 @@
+---
+title: 'Appendix C: Lexical-this'
+layout: chapter
+chapter: 8
+---
+
 # You Don't Know JS: Scope & Closures
 # Appendix C: Lexical-this
 

@@ -1,3 +1,9 @@
+---
+title: Objects
+layout: chapter
+chapter: 3
+---
+
 # You Don't Know JS: *this* & Object Prototypes
 # Chapter 3: Objects
 

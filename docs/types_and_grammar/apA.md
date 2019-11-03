@@ -1,3 +1,9 @@
+---
+title: 'Appendix A: Mixed Environment JavaScript'
+layout: chapter
+chapter: 6
+---
+
 # You Don't Know JS: Types & Grammar
 # Appendix A: Mixed Environment JavaScript
 

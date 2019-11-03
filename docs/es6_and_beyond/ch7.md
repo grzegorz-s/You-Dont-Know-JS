@@ -1,3 +1,9 @@
+---
+title: Meta Programming
+layout: chapter
+chapter: 7
+---
+
 # You Don't Know JS: ES6 & Beyond
 # Chapter 7: Meta Programming
 

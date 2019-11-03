@@ -1,3 +1,9 @@
+---
+title: Into Programming
+layout: chapter
+chapter: 1
+---
+
 # You Don't Know JS: Up & Going
 # Chapter 1: Into Programming
 

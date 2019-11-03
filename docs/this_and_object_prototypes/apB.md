@@ -1,3 +1,9 @@
+---
+title: 'Appendix B: Acknowledgments'
+layout: chapter
+chapter: 8
+---
+
 # You Don't Know JS: *this* & Object Prototypes
 # Appendix B: Acknowledgments
 

@@ -1,3 +1,9 @@
+---
+title: Lexical Scope
+layout: chapter
+chapter: 2
+---
+
 # You Don't Know JS: Scope & Closures
 # Chapter 2: Lexical Scope
 

@@ -1,3 +1,9 @@
+---
+title: Hoisting
+layout: chapter
+chapter: 4
+---
+
 # You Don't Know JS: Scope & Closures
 # Chapter 4: Hoisting
 

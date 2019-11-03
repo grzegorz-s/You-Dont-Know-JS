@@ -1,3 +1,9 @@
+---
+title: Values
+layout: chapter
+chapter: 2
+---
+
 # You Don't Know JS: Types & Grammar
 # Chapter 2: Values
 

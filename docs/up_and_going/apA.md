@@ -1,3 +1,9 @@
+---
+title: 'Appendix A: Acknowledgments'
+layout: chapter
+chapter: 4
+---
+
 # You Don't Know JS: Up & Going
 # Appendix A: Acknowledgments
 

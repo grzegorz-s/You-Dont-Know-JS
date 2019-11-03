@@ -1,3 +1,9 @@
+---
+title: API Additions
+layout: chapter
+chapter: 6
+---
+
 # You Don't Know JS: ES6 & Beyond
 # Chapter 6: API Additions
 

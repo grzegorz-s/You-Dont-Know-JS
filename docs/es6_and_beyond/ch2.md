@@ -1,3 +1,9 @@
+---
+title: Syntax
+layout: chapter
+chapter: 2
+---
+
 # You Don't Know JS: ES6 & Beyond
 # Chapter 2: Syntax
 

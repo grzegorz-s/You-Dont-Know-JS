@@ -1,3 +1,9 @@
+---
+title: Behavior Delegation
+layout: chapter
+chapter: 6
+---
+
 # You Don't Know JS: *this* & Object Prototypes
 # Chapter 6: Behavior Delegation
 

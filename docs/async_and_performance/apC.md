@@ -1,3 +1,9 @@
+---
+title: 'Appendix C: Acknowledgments'
+layout: chapter
+chapter: 9
+---
+
 # You Don't Know JS: Async & Performance
 # Appendix C: Acknowledgments
 

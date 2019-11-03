@@ -8,12 +8,12 @@
 
 This is a series of books diving deep into the core mechanisms of the JavaScript language. The first edition of the series is now complete.
 
-<a href="http://www.ebooks.com/1993212/you-don-t-know-js-up-going/simpson-kyle/"><img src="up %26 going/cover.jpg" width="75"></a>&nbsp;
-<a href="http://www.ebooks.com/1647631/you-don-t-know-js-scope-closures/simpson-kyle/"><img src="scope %26 closures/cover.jpg" width="75"></a>&nbsp;
-<a href="http://www.ebooks.com/1734321/you-don-t-know-js-this-object-prototypes/simpson-kyle/"><img src="this %26 object prototypes/cover.jpg" width="75"></a>&nbsp;
-<a href="http://www.ebooks.com/1935541/you-don-t-know-js-types-grammar/simpson-kyle/"><img src="types %26 grammar/cover.jpg" width="75"></a>&nbsp;
-<a href="http://www.ebooks.com/1977375/you-don-t-know-js-async-performance/simpson-kyle/"><img src="async %26 performance/cover.jpg" width="75"></a>&nbsp;
-<a href="http://www.ebooks.com/2481820/you-don-t-know-js-es6-beyond/simpson-kyle/"><img src="es6 %26 beyond/cover.jpg" width="75"></a>
+<a href="http://www.ebooks.com/1993212/you-don-t-know-js-up-going/simpson-kyle/"><img :src="$withBase('/images/cover_up_and_going.jpg')" width="75"></a>&nbsp;
+<a href="http://www.ebooks.com/1647631/you-don-t-know-js-scope-closures/simpson-kyle/"><img :src="$withBase('/images/cover_scope_and_closures.jpg')" width="75"></a>&nbsp;
+<a href="http://www.ebooks.com/1734321/you-don-t-know-js-this-object-prototypes/simpson-kyle/"><img :src="$withBase('/images/cover_this_and_object_prototypes.jpg')" width="75"></a>&nbsp;
+<a href="http://www.ebooks.com/1935541/you-don-t-know-js-types-grammar/simpson-kyle/"><img :src="$withBase('/images/cover_types_and_grammar.jpg')" width="75"></a>&nbsp;
+<a href="http://www.ebooks.com/1977375/you-don-t-know-js-async-performance/simpson-kyle/"><img :src="$withBase('/images/cover_async_and_performance.jpg')" width="75"></a>&nbsp;
+<a href="http://www.ebooks.com/2481820/you-don-t-know-js-es6-beyond/simpson-kyle/"><img :src="$withBase('/images/cover_es6_and_beyond.jpg')" width="75"></a>
 
 Please feel free to contribute to the quality of this content by submitting PR's for improvements to code snippets, explanations, etc. While typo fixes are welcomed, they will likely be caught through normal editing processes, and are thus not necessarily as important for this repository.
 

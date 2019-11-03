@@ -1,3 +1,9 @@
+---
+title: Natives
+layout: chapter
+chapter: 3
+---
+
 # You Don't Know JS: Types & Grammar
 # Chapter 3: Natives
 

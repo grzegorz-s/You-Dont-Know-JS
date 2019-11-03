@@ -1,3 +1,9 @@
+---
+title: Foreword
+layout: chapter
+chapter: 0
+---
+
 # You Don't Know JS: Async & Performance
 # Foreword
 

@@ -1,3 +1,10 @@
+---
+title: Promises
+layout: chapter
+chapter: 3
+---
+
+
 # You Don't Know JS: Async & Performance
 # Chapter 3: Promises
 

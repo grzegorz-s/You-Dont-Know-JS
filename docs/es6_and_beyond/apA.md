@@ -1,3 +1,9 @@
+---
+title: 'Appendix A: Acknowledgments'
+layout: chapter
+chapter: 9
+---
+
 # You Don't Know JS: ES6 & Beyond
 # Appendix A: Acknowledgments
 

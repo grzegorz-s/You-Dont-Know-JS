@@ -1,3 +1,9 @@
+---
+title: Organization
+layout: chapter
+chapter: 3
+---
+
 # You Don't Know JS: ES6 & Beyond
 # Chapter 3: Organization
 
