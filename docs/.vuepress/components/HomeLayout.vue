@@ -1,5 +1,7 @@
 <template>
   <div>
+    <Content slot-key="main-section" />
+
     <section class="content">
       <Content class="conetnt-hld" slot-key="content-section" />
     </section>

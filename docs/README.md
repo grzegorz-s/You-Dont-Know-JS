@@ -4,6 +4,10 @@ navbar: false
 pageClass: landing-page
 layout: HomeLayout
 ---
+::: slot main-section
+<LandingBooks />
+:::
+
 ::: slot content-section
 # You Don't Know JS (book series) - 1st Edition
 
